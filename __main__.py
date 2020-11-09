@@ -21,7 +21,7 @@ userField = driver.find_element_by_css_selector("input[name='username']")
 passField = driver.find_element_by_css_selector("input[name='password']")
 
 try:
-    loginDetailsFile = open("LoginDetails.txt", "r")
+    loginDetailsFile = open("login-details.txt", "r")
     loginDetails = loginDetailsFile.readlines()
     loginDetailsFile.close()
     
