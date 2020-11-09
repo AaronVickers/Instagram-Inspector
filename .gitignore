@@ -1,3 +1,8 @@
+# User specific files
+chromedriver.exe
+non-followers.txt
+not-following.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
