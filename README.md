@@ -12,5 +12,10 @@ The application prompts you to log in and complete 2FA (if applicable) before ga
 ## Usage
 1. [Download this GitHub repo](https://github.com/AaronVickers/Instagram-Inspector/archive/main.zip) and extract it
 2. Put your `chromedriver.exe` in the extracted folder
-3. Open terminal and change directory to extracted folder
+3. Open your choice of terminal and change directory to the extracted folder
 4. Run `py .`
+
+### Optional
+Login details can be put in `login-details.txt` to automate the log in process.
+Username goes on the first line, password goes on the second line.
+I do not recommend doing this, but the option is there.
